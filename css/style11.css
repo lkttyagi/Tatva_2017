@@ -1,0 +1,55 @@
+.item1Big,.item2Big,.item3Big,.item1,.item2,.item3,.item4,.item5,.item6,.item7,.item8,.item9,.item10,.item11,.item12,.item13,.item14,.item15,.item16,.item17,.item18,.item19,.item20,.item21,.item22,.item23,.item24,.item25,.item26,.item27,.item28,.item29,.item30,.item31,.item32,.item33,.item41,.item42,.item43,.item44,.item45,.item46,.item47{-webkit-filter: grayscale(0);filter: grayscale(0);transition:0.5s all linear}
+
+.item1Big:hover,.item2Big:hover,.item3Big:hover,.item1:hover,.item2:hover,.item3:hover,.item4:hover,.item5:hover,.item6:hover,.item7:hover,.item8:hover,.item9:hover,.item10:hover,.item11:hover,.item12:hover,.item13:hover,.item14:hover,.item15:hover,.item16:hover,.item17:hover,.item18:hover,.item19:hover,.item20:hover,.item21:hover,.item22:hover,.item23:hover,.item24:hover,.item25:hover,.item26:hover,.item27:hover,.item28:hover,.item29:hover,.item30:hover,.item31:hover,.item32:hover,.item33:hover,.item41:hover,.item42:hover,.item43:hover,.item44:hover,.item45:hover,.item46:hover,.item47:hover{-webkit-filter: grayscale(1);filter: grayscale(1);transition:0.5s all linear}
+
+.item1Big{background:url(../img/sponsors/tata.jpg) no-repeat center center;}
+.item2Big{background:url(../img/sponsors/birla.jpg) no-repeat center center;}
+.item3Big{background:url(../img/sponsors/ge.jpg) no-repeat center center;}
+
+.item1{background:url(../img/sponsors/sponsor1-c.png) no-repeat 1px 25px;}
+.item2{background:url(../img/sponsors/sponsor2-c.png) no-repeat 0px 45px;}
+.item3{background:url(../img/sponsors/sponsor3-c.png) no-repeat 0px 31px;}
+.item4{background:url(../img/sponsors/sponsor4-c.png) no-repeat 0px 25px;background-size:contain}
+.item5{background:url(../img/sponsors/Tata-SMG.jpg) no-repeat center center;}
+
+.item6{background:url(../img/sponsors/sponsor6-c.png) no-repeat 20px 20px;background-size: 203px 90px;}
+.item7{background:url(../img/sponsors/sponsor7-c.png) no-repeat 0px 31px;}
+.item8{background:url(../img/sponsors/sponsor8-c.png) no-repeat 40px 15px;background-size: 173px 115px;}
+.item9{background:url(../img/sponsors/sponsor9-c.png) no-repeat 0px 25px;}
+.item10{background:url(../img/sponsors/sponsor10-c.png) no-repeat 0px 25px;}
+
+.item11{background:url(../img/sponsors/sponsor11-c.png) no-repeat 0px 15px;}
+.item12{background:url(../img/sponsors/sponsor12-c.png) no-repeat 40px 25px;}
+.item13{background:url(../img/sponsors/sponsor13-c.png) no-repeat 0px 15px;}
+.item14{background:url(../img/sponsors/sponsor14-c.png) no-repeat 50px -15px;background-size: contain;}
+.item15{background:url(../img/sponsors/sponsor15-c.png) no-repeat center 0px;background-size: 100px;}
+
+.item16{background:url(../img/sponsors/sponsor16-c.png) no-repeat center 0px;}
+.item17{background:url(../img/sponsors/sponsor17-c.png) no-repeat 0px center;}
+.item18{background:url(../img/sponsors/sponsor18-c.png) no-repeat center 17px;background-size: 220px 80px;}
+.item19{background:url(../img/sponsors/sponsor19-c.png) no-repeat center 10px;background-size: 130px;}
+.item20{background:url(../img/sponsors/sponsor20-c.png) no-repeat center 12px;background-size: 90px;}
+
+.item21{background:url(../img/sponsors/sponsor21-c.png) no-repeat 60px 15px;background-size: 80px;}
+.item22{background:url(../img/sponsors/sponsor22-c.png) no-repeat 0px 15px;}
+.item23{background:url(../img/sponsors/sponsor23-c.png) no-repeat 40px 30px;background-size: 200px;}
+.item24{background:url(../img/sponsors/wipro.jpg) no-repeat center center;background-size: contain;}
+.item25{background:url(../img/sponsors/pm.png) no-repeat center center;background-size: contain;}
+
+.item26{background:url(../img/sponsors/sponsor26.png) no-repeat center center;background-size: 150px;}
+.item27{background:url(../img/sponsors/sponsor27.png) no-repeat center center;background-size: 150px;}
+.item28{background:url(../img/sponsors/sponsor28.png) no-repeat center center;background-size: 150px;}
+.item29{background:url(../img/sponsors/sponsor29.png) no-repeat center center;background-size: 150px;}
+.item30{background:url(../img/sponsors/sponsor30.png) no-repeat center center;background-size: contain;}
+.item31{background:url(../img/sponsors/sponsor31.jpg) no-repeat center center;background-size: contain;}
+.item32{background:url(../img/sponsors/sponsor32.jpg) no-repeat center center;background-size: 170px;}
+.item33{background:url(../img/sponsors/sponsor33.jpg) no-repeat center center;background-size: contain;}
+
+.item41{background:url(../img/sponsors/khs.jpg) no-repeat center center;background-size: contain;}
+.item42{background:url(../img/sponsors/ciie.png) no-repeat center center;background-size: contain;}
+.item43{background:url(../img/sponsors/bird.png) no-repeat center center;background-size: contain;}
+.item44{background:url(../img/sponsors/mela.jpg) no-repeat center center;background-size: contain;}
+.item45{background:url(../img/sponsors/sap.png) no-repeat center center;background-size: contain;}
+.item46{background:url(../img/sponsors/yes.jpg) no-repeat center center;background-size: contain;}
+.item47{background:url(../img/sponsors/ibm.jpg) no-repeat center center;background-size: contain;}
+
